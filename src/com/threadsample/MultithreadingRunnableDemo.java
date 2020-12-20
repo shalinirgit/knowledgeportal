@@ -1,5 +1,6 @@
 package com.threadsample;
 
+/*Comment for MultiligualthreadRunnable class comment*/
 class MultithreadingRunnableDemo implements Runnable{  
 	
 	  public void run(){  
